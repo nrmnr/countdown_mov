@@ -5,7 +5,8 @@
 # using ImageMagick, ffmpeg
 
 $size = '960x720'
-$font = 'Tahoma'
+# $font = 'Tahoma'
+$font = 'VL-Gothic-Regular'
 $fontsize = 256
 $sec_max = 120
 
